@@ -1,9 +1,9 @@
 # EnvVar App
 
 ## Todo
--[ ] Group Connection Management
--[x] Check connection
--[ ] Check Sync
+- [ ] Group Connection Management  
+- [x] Check connections  
+- [ ] Check Sync  
 
 ## Get Started
 1. Pull down the repo
