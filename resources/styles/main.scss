@@ -1,0 +1,29 @@
+.appnav {
+  width: 100%;
+  border-bottom: solid rgba(black, 0.5) 1px;
+  background: teal;
+}
+
+.code-input {
+  margin-bottom: 0;
+  width: 100%;
+  font-family: monospace;
+}
+
+.envvar-row {
+  padding: 10px 0;
+}
+
+.remove-row {
+  i {
+    font-size: 16px;
+  }
+}
+
+.icon-bg-green {
+  color: green;
+}
+
+.icon-bg-gray {
+  color: gray;
+}
